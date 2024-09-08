@@ -43,13 +43,10 @@ To clone and run this project locally, follow these steps:
 - **Database**: MongoDB
 - **Machine Learning**: Python, Scikit-learn
 
-## Contributing
+## Contributing and Collaborating
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
